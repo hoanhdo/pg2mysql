@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/mrmark/pg2mysql"
+	"github.com/hoanhdo/pg2mysql"
 )
 
 type ValidateCommand struct{}
